@@ -1,5 +1,5 @@
 {
-    "name": "ConstGenerator.Editor",
+    "name": "jwellone.ConstGenerator.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
