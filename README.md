@@ -10,7 +10,7 @@
 Output a cs file that describes the constants of Scenes, Tags, Layers, and Sorting Layers.<br>
 Also, can create your own class by inheriting IConstGenerator.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## Getting Started
 - Import the package.
